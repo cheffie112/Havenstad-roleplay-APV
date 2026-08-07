@@ -1,0 +1,6 @@
+const menu=document.querySelector('.menu-btn'),side=document.querySelector('.sidebar'),back=document.querySelector('.mobile-backdrop'),theme=document.querySelector('#theme'),search=document.querySelector('#search');
+menu?.addEventListener('click',()=>{side.classList.toggle('open');back.classList.toggle('show')});back?.addEventListener('click',()=>{side.classList.remove('open');back.classList.remove('show')});
+theme?.addEventListener('click',()=>{document.body.classList.toggle('light');if(document.body.classList.contains('light')){document.documentElement.style.setProperty('--bg','#f5f6f8');document.documentElement.style.setProperty('--panel','#fff');document.documentElement.style.setProperty('--panel2','#fff');document.documentElement.style.setProperty('--text','#15171b');document.documentElement.style.setProperty('--muted','#5f6874');document.documentElement.style.setProperty('--line','#e0e3e8');theme.textContent='☀'}else{location.reload()}});
+search?.addEventListener('input',e=>{const q=e.target.value.toLowerCase();document.querySelectorAll('nav a').forEach(a=>a.style.display=a.textContent.toLowerCase().includes(q)?'block':'none')});
+document.querySelectorAll('nav a').forEach(a=>a.addEventListener('click',()=>{side.classList.remove('open');back.classList.remove('show')}));
+document.querySelector('#year').textContent=new Date().getFullYear();
