@@ -1,0 +1,169 @@
+# Off-road voertuigen
+
+Discord: https://discord.gg/springbankrp
+
+Op deze pagina zijn verschillende voertuigen opgenomen met een bijhorende klassificatie. Dit is vormgegeven in drie klassificaties:
+
+| Klasse           | Omschrijving                                                                                                                                            |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Verharde wegen    | alle wegen die geasfalteerd zijn of een betonnen vloer hebben                                                                                            |
+| Onverharde wegen  | alle onverharde wegen waar de ondergrond uit (hard) zand bestaat                                                                                         |
+| Off-Road wegen    | alle onverharde wegen waar de ondergrond uit gras, modder of dergelijk bestaat en er geen weg zichtbaar is. Ook de ondergrondse tunnels horen hier bij. |
+
+Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de klasse "Verharde wegen".
+
+**Straf ⇨ Categorie 1: een waarschuwing**
+
+## Voertuigen per wegtype
+
+Elk voertuig mag op onverharde wegen rijden t/m 100 km/u.
+
+### Onverharde wegen (geen snelheidslimiet voor onderstaande voertuigen)
+
+- Aanhanger
+- Albany Cavcade
+- Albany Cavcade XL
+- Bf Surfer x19 (alleen met off-road banden)
+- Bf Surfer x21 (alleen met off-road banden)
+- Canis Blackfang (alleen met off-road banden)
+- Coil Khamel
+- Declasse Gburrito (alleen met off-road banden)
+- Declasse Walton
+- Enus Jubilee Carbon Master
+- Gallivanter Baller
+- Gallivanter Ballerp5x
+- Gallivanter Baller Sport
+- Gallivanter Baller Sport+
+- Gallivanter Baller ST-D
+- Gallivanter Baller ST-D Platinum
+- Karin Bjxl (alleen met off-road banden)
+- Karin Karuma Rally (alleen met off-road banden)
+- Karin Kuruma RS (alleen met off-road banden)
+- Karin Mogul RS (alleen met off-road banden)
+- Karin Sultan (alleen met off-road banden)
+- Karin Sultan CTX (alleen met off-road banden)
+- Karin Sultan SR4 (alleen met off-road banden)
+- Karin Sultan MK4 (alleen met offroad banden)
+- Karin Sult RSX (alleen met off-road banden)
+- Lampadati Novak
+- Maibatsu Mule (alleen met off-road banden)
+- Maibatsu Sunrise (alleen met off-road banden)
+- Maibatsu Sunrise HYC (alleen met off-road banden)
+- MTL Brickade Flatbed
+- Obey Rocoto
+- Obey R650
+- Pegassi Toros (alleen met off-road banden)
+- Pfister Astron Custom (alleen met off-road banden)
+- Pfister Neon SUV (alleen met off-road banden)
+- Ubermacht 3MX (alleen met off-road banden)
+- Ubermacht Beretta
+- Ubermacht FX3R (alleen met off-road banden)
+- Ubermacht FX7R (alleen met off-road banden)
+- Übermacht Granz BN (alleen met off-road banden)
+- Ubermacht Rebla CTs
+- Ubermacht X340R ZK
+- Vapid Aleutian XL
+- Vapid Minivan (alleen met off-road banden)
+- Vapid Minivan Lowrider (alleen met off-road banden)
+- Vulcar Starlight
+- Vulcar VX90R (alleen met off-road banden)
+- Zirconiu Journey (alleen met off-road banden)
+- Zirconiu Journey Sport (alleen met off-road banden)
+
+### Off-road wegen
+
+- Aanhanger (alleen met off-road banden)
+- Albany Cavalade FXT
+- Albany Cavalcade Mans
+- Annis Hellion
+- Annis Patriot
+- Beclasse Draugur
+- Benefactor Dubsta CTX
+- Benefactor Dubsta Eiland Edition
+- Benefactor Dubsta (alleen met off-road banden)
+- Benefactor Dubsta EVO XR
+- Benefactor Dubsta 4X4
+- Benefactor Dubsta 6x6
+- Benefactor Dubsta 6X6 XR
+- Benefactor Dubsta Sport (alleen met off-road banden)
+- Benefactor Omnimog
+- Benefactor Dubsta LX
+- Bestotion Slamvan XER
+- Bf Bifta
+- Bf Inject
+- BF Trager Civ (alleen met off-road banden)
+- Bollokan Pakunek (alleen met off-road banden)
+- Bravado Esperta (alleen met off-road banden)
+- Bravado Rumpo XL Eiland Edition
+- Bravado Bison
+- Bravado Brutus Titan
+- Bravado Gresley Hellfire
+- Canis Bodhi
+- Canis Freecrawler
+- Canis Gator 4x4
+- Canis Kamacho
+- Canis Mesa
+- Canis Seminole Off-Road
+- Canis WPT
+- Coil Brawler
+- Coil LOD-4
+- Coil Money (alleen met off-road banden)
+- Dinka Mountainier
+- Dinka Rebel 6
+- Declasse Draugur
+- Declasse Yosemite DRT
+- Enus Jubilee Mans (alleen met off-road banden)
+- Enus Regent (alleen met off-road banden)
+- Gallivanter Baller Masterpiece
+- Gallivanter Baller Raid
+- Gallivanter Bastion
+- Gallivanter Trailguard 3 (3 Door)
+- Gallivanter Trailguard 5 Mans X
+- Gallivanter trailguard 6
+- Karin Borneo
+- Karin Bjxl
+- Karin Boor
+- Karin Bushmaster
+- Karin Everon
+- Karin Everon Baja
+- Karin Everon Stock
+- Karin Rebel 20
+- Karin Rebel Raid
+- Maibatsu Manchez Safari
+- Maibatsu Manchez I3
+- Maibatsu Monstrociti
+- Maibatsu Prally Turbo
+- Maibatsu Sanchez
+- Maibatsu Sanchez SM
+- Maibatsu Sanchez Sport
+- M-VOLT
+- Nagasaki Bf400
+- Nagasaki Bf900
+- Nagasaki Blazer
+- Nagasaki Blazer Hotrod
+- Nagasaki Blazer Sport
+- Nagasaki Outlaw
+- Nagasaki Outlaw XL
+- Obey Tenf Rally
+- Pegassi Toros Mancarbon (alleen met off-road banden)
+- Pfister XX3
+- Rune Baikal 4X4
+- Ubermacht FX3R Offroad
+- Ubermacht Rebla XR (alleen met off-road banden)
+- Ubermacht Rebla Safari
+- Vapid Aleutian X
+- Vapid Caracara
+- Vapid Contendor
+- Vapid Contender Custom
+- Vapid Coyote
+- Vapid fpdbe Custom
+- Vapid VV-150
+- Vapid Sandking
+- Vapid Sadler 4X4
+- Vapid Slam 4X4
+- Vapid Trophy
+- Vapid Trophy Sport
+- Western Cliffhanger
+
+---
+Bron: [wetboek.srp-fivem.nl/offroad](https://wetboek.srp-fivem.nl/offroad/)
